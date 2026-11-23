@@ -4,7 +4,8 @@ An interactive spatial and financial risk dashboard analyzing international auto
 
 🔗 *[View Live Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/clinton.ubah4498/viz/LagosAutomotiveImportationDemurrageLogisticsTracker/LagosAutomotiveImportationDemurrageLogisticsTracker)*
 
-![Dashboard Preview](dashboard_preview.png)
+<img width="930" height="496" alt="Dashboard_preview png" src="https://github.com/user-attachments/assets/44f2f06a-39ab-4f2b-b151-d8ae9ff507d4" />
+
 
 ---
 
